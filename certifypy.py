@@ -66,7 +66,7 @@ def parse_args(argv):
     1. Pass an input file to the script.
     2. Execute as: python certipy.py -i input.dat
     3. The full list of configuration file options can be found at: 
-    https://github.com/maurobedoya/xx
+    https://github.com/maurobedoya/certifypy
 
     "If this script is useful for you, just be happy, it's free! :)"
     Contact: 
