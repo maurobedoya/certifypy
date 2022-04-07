@@ -4,7 +4,7 @@
 
 ## Features
 
-This script allows to generate certificates in a massive and automatic way, reading an excel file with the information of the participants of an event or congress. The files are renamed with a base name, the name of the participant and the type of certificate. 
+This python script allows to generate certificates in a massive and automatic way, reading an excel file with the information of the participants of an event or congress. The files are renamed with a base name, the name of the participant and the type of certificate. 
 
 In the excel file the structure of the columns such as: NAME, AFFILIATION, POSTER, TALK, AWARD, and ROLE must be preserved. If a participant has no poster, talk or award information, it should be left blank and the script will only generate the certificates with the information that exists.
 
@@ -26,7 +26,6 @@ Contains the options for size and orientation of the certificate.
 
 * [info]  
 Contains options for the text on the certificate.
-
 
 
 
