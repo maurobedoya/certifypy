@@ -64,7 +64,7 @@ def parse_args(argv):
     Generator of poster presentation certificates, attendance at conferences, 
     organizing committee and juror participation and awards.
     1. Pass an input file to the script.
-    2. Execute as: python certipy.py -i input.dat
+    2. Execute as: python certifypy.py -i input.dat
     3. The full list of configuration file options can be found at: 
     https://github.com/maurobedoya/certifypy
 
