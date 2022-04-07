@@ -24,8 +24,10 @@ Contains global settings.
 * [layout]  
 Contains the options for size and orientation of the certificate.
 
-* [info] 
+* [info]  
 Contains options for the text on the certificate.
+
+
 
 
 
