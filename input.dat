@@ -1,0 +1,74 @@
+[settings]
+workdir = certificates
+basename = Evento_2022
+participants_data = templates/participants_data.xlsx
+fonts_folder = fonts
+template = templates/template_carta_vertical_002.png
+
+[layout]
+paper_size = A4
+orientation = vertical
+#custom_size = 10.0 10.0
+
+[info]
+title = Event 2022
+title_coords = 0.9 0.0
+title_font_size = 80
+title_font = Montserrat-Regular.otf
+title_font_color = black
+
+subtitle = El comité ejecutivo de Lorem Ipsum certifica que:
+subtitle_coords = 0.5,0.35
+subtitle_font_size = 80
+subtitle_font = Montserrat-Regular.otf
+subtitle_font_color = black
+
+participant_name = yes
+participant_name_coords = 0.5,0.4
+participant_name_font = Montserrat-SemiBold.otf
+participant_name_font_size = 90
+participant_name_font_color = black
+
+participant_affiliation = yes
+participant_affiliation_coords = 0.5,0.41
+participant_affiliation_font = Montserrat-Regular.otf
+participant_affiliation_font_size = 70
+participant_affiliation_font_color = black
+
+# Settings for the participant's work, poster or talk.
+participant_work_title = yes
+participant_work_title_coords = 0.5,0.7
+participant_work_title_font = Montserrat-Regular.otf
+participant_work_title_font_size = 80
+participant_work_title_font_color = #FF0000
+
+# Title for attendant certificate
+attendant_title = Certificado de asistencia
+attendant_title_coords = 0.5,0.25
+attendant_title_font = Montserrat-SemiBold.otf
+attendant_title_font_size = 110
+attendant_title_font_color = black
+
+# Main text for attendant certificate
+attendant_text = Asistió a la primera reunión anual de la Sociedad Lorem Ipsum (LI) durante los días 1, 2 y 3 de enero del año 2022.
+attendant_text_coords = 0.5,0.5
+attendant_text_font = MerriweatherSans-Regular.ttf
+attendant_text_font_size = 100
+attendant_text_font_color = #4754A3
+
+# Title for poster certificate
+poster_title = Certificado de participación
+poster_title_coords = 0.5,0.25
+poster_title_font = Montserrat-SemiBold.otf
+poster_title_font_size = 110
+poster_title_font_color = black
+
+# Main text for poster certificate
+poster_text = Participó en la primera reunión anual de la Sociedad Lorem Ipsum (LI) durante los días 1, 2 y 3 de enero del año 2022 con la presentación del poster titulado:
+poster_text_coords = 0.5,0.5
+poster_text_font = MerriweatherSans-Regular.ttf
+poster_text_font_size = 100
+poster_text_font_color = #4754A3
+
+date = 06/04/2022
+date_coords = 0.8 0.75 
