@@ -1,5 +1,5 @@
 [settings]
-workdir = certificates
+workdir = certificates_testing
 basename = Evento_2022
 participants_data = templates/participants_data.xlsx
 fonts_folder = fonts
